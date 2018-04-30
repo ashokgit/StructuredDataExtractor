@@ -9,7 +9,7 @@ composer require simple-html-dom/simple-html-dom
 Example
 --------
 
-    $url = 'https://www.bookmundi.com/kathmandu/everest-base-camp-trek-3841';
+    $url = 'http://www.himalayanwonders.com/nepal/everest-base-camp.html';
     $dataExtractor = new StructuredDataExtractor();
     $dataExtractor->setUrl($url);
     $dataExtractor->getContents();
