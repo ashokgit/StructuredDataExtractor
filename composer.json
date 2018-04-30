@@ -1,0 +1,12 @@
+{
+	"name": "StructuredDataExtractor",
+	"description": "Structured Data Extractor / Rich Snippets Data Extractor",
+	"license": "MIT",
+	"authors": [{
+		"name": "Ashok Poudel",
+		"email": "ashok.poudel@gmail.com"
+	}],
+	"require": {
+		"simple-html-dom/simple-html-dom": "^1.5"
+	}
+}
