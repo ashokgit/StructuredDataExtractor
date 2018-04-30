@@ -1,8 +1,13 @@
 # StructuredDataExtractor 0.1
 Structured Data Extractor / Rich Snippets Data Extractor
-Still have lots to add
 
-##How to use
+Dependency : composer require simple-html-dom/simple-html-dom
+==============================================================
+composer require simple-html-dom/simple-html-dom
+
+
+Example
+==========
 
     $url = 'https://www.bookmundi.com/kathmandu/everest-base-camp-trek-3841';
     $dataExtractor = new StructuredDataExtractor();
