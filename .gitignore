@@ -1,1 +1,10 @@
-./vendors
+# System files
+.DS_Store
+
+# Subversion
+.svn
+
+# Composer
+composer.phar
+composer.lock
+/vendor
